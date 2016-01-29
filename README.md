@@ -31,4 +31,4 @@
 *Was the lesson overall engaging, friendly, and avoidant of “glorified documentation?” 
 
 
-<a href='https://learn.co/lessons/checklist-for-reviewing-readmes' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/checklist-for-reviewing-readmes' title='Read the Lesson in its entirety without commenting or changing anything.'>Read the Lesson in its entirety without commenting or changing anything.</a> on Learn.co and start learning to code for free.</p>
