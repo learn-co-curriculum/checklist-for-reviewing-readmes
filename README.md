@@ -1,3 +1,5 @@
+## Checklist for Reviewing Readmes
+
 ### Read the Lesson in its entirety without commenting or changing anything. 
 
 ### Start with the overview.
@@ -18,6 +20,7 @@
 *Is it written using second person (“you”) and first person plural (“we”)
 *Are explanations clear and friendly
 *Is it not overly dry and humorless?
+*Bonus: are there gifs?
 
 ### Code in the body of the lesson
 *Is every new part of a code block or snippet explained? 
@@ -28,7 +31,7 @@
 ### Wrapping Up
 *Does the new content presented solve the initial problem that the lesson started with? 
 *If it’s a lengthy lesson, are the core concepts recapped? 
-*Was the lesson overall engaging, friendly, and avoidant of “glorified documentation?” 
+*Was the lesson engaging, friendly, and avoided writing “glorified documentation?” 
 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/checklist-for-reviewing-readmes' title='Read the Lesson in its entirety without commenting or changing anything.'>Read the Lesson in its entirety without commenting or changing anything.</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/checklist-for-reviewing-readmes' title='Checklist for Reviewing Readmes.'>Checklist for Reviewing Readmes</a> on Learn.co and start learning to code for free.</p>
